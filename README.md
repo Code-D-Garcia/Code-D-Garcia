@@ -10,7 +10,6 @@
 
  <img src="./terminal/whoami.svg" alt="whoami" />
 
-
 ```bash
 
 David Garcia
