@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hola, soy David Garcia
 
-<!--
-**Code-D-Garcia/Code-D-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Backend apasionado por el diseño y construcción de APIs, arquitecturas escalables y soluciones eficientes.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Enfocado en el desarrollo Backend y la arquitectura de software.
+- 🌱 Actualmente aprendiendo **Java** y profundizando en el ecosistema de **Spring Boot**.
+- 🛠️ Interesado en buenas prácticas de desarrollo, patrones de diseño y automatización de procesos.
+- 📚 Siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.
+
+## 💻 Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java" />
+</p>
+
+## ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+## 🗄️ Bases de Datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### ORM / ODM
+
+- Hibernate
+- Prisma
+- Mongoose
+
+## 🛠️ DevOps & Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,linux" />
+</p>
+
+
+
+## 🎯 Objetivos Actuales
+
+- Fortalecer mis conocimientos en **Java** y **Spring Boot**.
+- Profundizar en arquitectura de microservicios.
+- Mejorar mis habilidades en CI/CD y contenerización.
+- Contribuir a proyectos de código abierto.
+
+
+---
