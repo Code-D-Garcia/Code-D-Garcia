@@ -1,8 +1,17 @@
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Code-D-Garcia&theme=github-dark&hide_border=true"
   />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,nodejs,express,spring,postgres,mysql,mongodb,docker,jenkins,linux,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+whoami" />
+</p>
+
 
 # 👋 Hola, soy David Garcia
 
@@ -62,3 +71,4 @@ Actualmente me encuentro profundizando mis conocimientos en **Java** y el ecosis
 - Construyendo proyectos para fortalecer mi portafolio.
 
 ---
+
