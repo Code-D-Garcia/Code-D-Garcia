@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,python,nodejs,express,spring,postgres,mysql,mongodb,docker,jenkins,linux,git,github" />
 </p>
 
- <img src="./whoami.svg" alt="whoami" />
+ <img src="./terminal/whoami.svg" alt="whoami" />
 
 
 ```bash
@@ -23,10 +23,9 @@ Actualmente profundizando conocimientos en Java y Spring Boot,
 aplicando buenas prácticas de desarrollo, arquitectura de software
 y diseño de bases de datos.
 
-code-d-garcia@github:~$ ls stack/
-
 ```
 
+<img src="./terminal/stack.svg" alt="stack" />
 
 ### Lenguajes
 
@@ -66,17 +65,17 @@ code-d-garcia@github:~$ ls stack/
 
 ---
 
-```bash
-code-d-garcia@github:~$ cat currently_learning.md
+<img src="./terminal/learning.svg" alt="learning" />
 
+```bash
 ✔ Java
 ✔ Spring Boot
 ✔ Backend Architecture
 ✔ Docker
 ✔ CI/CD
 
-code-d-garcia@github:~$ █
 ```
+<img src="./terminal/blank.svg" alt="blank" />
 
 
 
