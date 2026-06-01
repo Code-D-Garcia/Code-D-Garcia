@@ -8,6 +8,7 @@
     .user { fill: #50fa7b; }      /* Verde */
     .path { fill: #bd93f9; }      /* Morado */
     .command { fill: #8be9fd; }   /* Cyan */
+    .symbol { fill: #f8f8f2; }    /* Blanco */
 
     .cursor {
       fill: #f8f8f2;
