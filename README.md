@@ -1,52 +1,64 @@
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark&hide_border=true"
+  />
+</p>
+
 # 👋 Hola, soy David Garcia
 
-💻 Desarrollador Backend apasionado por el diseño y construcción de APIs, arquitecturas escalables y soluciones eficientes.
+### Backend Developer
 
-## 🚀 Sobre mí
+Desarrollador backend enfocado en la construcción de APIs escalables y aplicaciones web utilizando JavaScript, Python y Java.
 
-- 🔭 Enfocado en el desarrollo Backend y la arquitectura de software.
-- 🌱 Actualmente aprendiendo **Java** y profundizando en el ecosistema de **Spring Boot**.
-- 🛠️ Interesado en buenas prácticas de desarrollo, patrones de diseño y automatización de procesos.
-- 📚 Siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.
+Actualmente me encuentro profundizando mis conocimientos en **Java** y el ecosistema de **Spring Boot**, aplicando buenas prácticas de desarrollo, arquitectura de software y diseño de bases de datos.
 
-## 💻 Lenguajes
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java" />
-</p>
+## 🚀 Tecnologías
 
-## ⚙️ Backend & Frameworks
+### Lenguajes
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 
-## 🗄️ Bases de Datos
+### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
+
+### ERP & Business Applications
+
+![Odoo](https://img.shields.io/badge/Odoo-000?style=for-the-badge&logo=odoo)
+
+### Bases de Datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 
 ### ORM / ODM
 
-- Hibernate
-- Prisma
-- Mongoose
+![Hibernate](https://img.shields.io/badge/Hibernate-000?style=for-the-badge&logo=hibernate)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
+![Mongoose](https://img.shields.io/badge/Mongoose-000?style=for-the-badge&logo=mongoose)
 
-## 🛠️ DevOps & Herramientas
+### DevOps & Herramientas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,linux" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
+---
 
+## 🌱 Actualmente
 
-## 🎯 Objetivos Actuales
-
-- Fortalecer mis conocimientos en **Java** y **Spring Boot**.
-- Profundizar en arquitectura de microservicios.
-- Mejorar mis habilidades en CI/CD y contenerización.
-- Contribuir a proyectos de código abierto.
-
+- Aprendiendo Java y Spring Boot.
+- Profundizando en arquitectura backend.
+- Mejorando conocimientos de Docker y CI/CD.
+- Construyendo proyectos para fortalecer mi portafolio.
 
 ---
