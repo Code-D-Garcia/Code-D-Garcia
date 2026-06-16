@@ -13,15 +13,20 @@
 ```bash
 
 David Garcia
+
 Backend Developer
 
-Desarrollador backend enfocado en la construcción de APIs escalables
-y aplicaciones web utilizando JavaScript, Python y Java.
+Focused on Java and Spring Boot for developing REST APIs and
+data-driven applications. Experienced with Hibernate/JPA,
+PostgreSQL, and Spring Security. Skilled in deploying
+applications with Docker and managing version control using Git.
 
-Actualmente profundizando conocimientos en Java y Spring Boot,
-aplicando buenas prácticas de desarrollo, arquitectura de software
-y diseño de bases de datos.
+Additionally, I complement my profile with knowledge and
+experience in Node.js/Express and React, as well as Python for
+developing and customizing Odoo modules, implementing
+business-oriented functionalities and integrations.
 
+------------------------------------------------------------
 ```
 
 <img src="./terminal/stack.svg" alt="stack" />
